@@ -1,0 +1,10 @@
+build {
+    build_version = "1.0"
+    // God bless you!
+    command "echo Building.."
+    build
+}
+
+main {
+    command "start.sh"
+}
