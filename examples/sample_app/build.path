@@ -6,5 +6,6 @@ build {
 }
 
 main {
-    command "start.sh"
+    command "chmod +x start.sh"
+    command "./start.sh"
 }
