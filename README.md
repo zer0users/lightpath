@@ -10,3 +10,5 @@ wget https://raw.githubusercontent.com/zer0users/lightpath/refs/heads/main/sourc
 gcc -o lightpath lightpath.c
 sudo mv /usr/local/bin/lightpath
 ```
+
+Remember, Do not make innapropiate applications.
